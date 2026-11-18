@@ -1,4 +1,4 @@
-Smart Bank Locker Access System with Password and RFID Authentication using LPC2129
+#Smart Bank Locker Access System with Password and RFID Authentication using LPC2129
 
 Project Overview:
 
